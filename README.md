@@ -9,20 +9,20 @@ A simple blogging platform built with Node.js, Express.js, and EJS. This project
 👉 Dynamic content rendering with EJS
 
 **Installation**
-Follow these steps to set up and run the project locally:
+Follow these steps to set up and run the project locally: 
 
-1️⃣ Clone the repository
+1️⃣ Clone the repository: 
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
 
-2️⃣ Navigate to the project directory
+2️⃣ Navigate to the project directory: 
 cd YOUR-REPO
 
-3️⃣ Install dependencies
+3️⃣ Install dependencies: 
 npm install (This will install all the dependencies listed in the package.json file)
 
-4️⃣ Start the server
+4️⃣ Start the server: 
 node server.js
 
-5️⃣ Open in your browser
+5️⃣ Open in your browser: 
 Go to: http://localhost:3000
 
